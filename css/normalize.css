@@ -881,7 +881,7 @@ table, th, td {
     padding-bottom: 20px;
     border-radius: 6px;
     font-size: 30px;
-    margin-left: 45%;
+    margin-left: 44%;
 
   }
 
@@ -1280,6 +1280,7 @@ table, th, td {
         padding-bottom: 10px;
         border-radius: 6px;
         font-size: 20px;
+        margin-left: 40%;
       }
 
     /*checkout*/
@@ -1317,7 +1318,7 @@ table, th, td {
         font-size: 30px;
         border: none;
         border-radius: 10%;
-        margin-left: 32%;
+        margin-left: 35%;
       }
     
 
