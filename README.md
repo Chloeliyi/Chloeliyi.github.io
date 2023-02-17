@@ -35,7 +35,7 @@ Goes over the features in our website.
 - Feature 12- Cart page implement, which allows users to to view their orders and then access  the checkout.
 - Feature 13- Checkout page implemented, this allows users to view their total order and cost, they can also use points earned from activites to reduce their total, and also chose their payment method.
 - Feature 14- order page implemeted, this allows users to the points earned from ordering.
--Feature 15 - cart paged implemented, users can view their orders they added from the product deatails pages and then checkout from the page with their orders.
+- Feature 15 - cart paged implemented, users can view their orders they added from the product deatails pages and then checkout from the page with their orders.
 
 
 ### Future implementations
@@ -87,6 +87,7 @@ In this section, I mention all of the languages, frameworks, libraries, and any 
   - [Reference for Quiz](https://codereview.stackexchange.com/questions/122837/simple-javascript-quiz-application-with-radio-buttons)
   
   Le Xin: CSS for the website
+  
   Chloe: API for the website
   
   # Github Page Link: Chloeliyi.github.io
