@@ -86,11 +86,10 @@ In this section, I mention all of the languages, frameworks, libraries, and any 
   - W3Schools
   - [Reference for Quiz](https://codereview.stackexchange.com/questions/122837/simple-javascript-quiz-application-with-radio-buttons)
   
-  Le Xin: CSS for the website
+#Roles
+Le Xin: front-end developer
+Chloe: API developer, back-end devloper
   
-  Chloe: API for the website
-  
-  # Github Page Link: Chloeliyi.github.io
-  # Github Repo: https://github.com/Chloeliyi/Chloeliyi.github.io
-
+[Github Pages](https://chloeliyi.github.io/)
+[Github Repo](https://github.com/Chloeliyi/Chloeliyi.github.io)
 
