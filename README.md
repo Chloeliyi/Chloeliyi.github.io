@@ -1,4 +1,4 @@
-# Github Page Link: Chloeliyi.github.io
+
 # A website for LEGOHOLIC 
 ## About
 
@@ -88,5 +88,8 @@ In this section, I mention all of the languages, frameworks, libraries, and any 
   
   Le Xin: CSS for the website
   Chloe: API for the website
+  
+  # Github Page Link: Chloeliyi.github.io
+  # Github Repo: 
 
 
