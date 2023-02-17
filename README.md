@@ -86,7 +86,7 @@ In this section, I mention all of the languages, frameworks, libraries, and any 
   - W3Schools
   - [Reference for Quiz](https://codereview.stackexchange.com/questions/122837/simple-javascript-quiz-application-with-radio-buttons)
   
-#Roles
+# Roles
 - Le Xin: front-end developer
 - Chloe: API developer, back-end devloper
   
