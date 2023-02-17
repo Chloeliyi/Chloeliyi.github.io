@@ -1,4 +1,4 @@
-# Chloeliyi.github.io
+# Github Page Link: Chloeliyi.github.io
 # A website for LEGOHOLIC 
 
 [Github](https://github.com/IceBucket420/Intergrated-project)
