@@ -1248,15 +1248,15 @@ table, th, td {
 
 
     
-    .cartimg img{
+    .cart_image{
         width:200px;
-        height: 200px;
+        height:200px;
     }
     
     
     table, th, td {
-        padding-right: 150px;
-        padding-bottom: 50px;
+        padding-right:20px;
+        padding-bottom:20 px;
         text-align: center;
       }
     
@@ -1269,7 +1269,7 @@ table, th, td {
     
     #cart-list {
         margin-left: 0%;
-        font-size: 20px;
+        font-size: 30px;
     }
     
     
@@ -1282,6 +1282,10 @@ table, th, td {
         font-size: 20px;
         margin-left: 40%;
       }
+      
+    
+
+
 
     /*checkout*/
     
