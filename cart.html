@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="css/normalize.css" type="text/css"/>
+        <title>Cart</title>
+    </head>
+
+    <body>
+        <header>
+            <div class="logo">
+                <img src="images/legoholic logo-06.png" width="100">
+            </div>
+            <nav class="bar">
+                <ul>  
+                    <li> 
+                    <a href="index.html"> Home </a>  
+                    </li>  
+                    <li>  
+                    <a href="product.html">Products </a>  
+                    </li>  
+                    <li>  
+                    <a href="contact.html">Contact</a>  
+                    </li>  
+                    <li> <a href="reward.html">Reward</a>  
+                    </li>  
+                </ul>
+            </nav>
+            <div class="minibar">
+                <ul>
+                    <li>
+                        <a href="cart.html"><img src="images/bag.png" width="80"></a>
+                    </li>
+                    <li>
+                        <a href="profile.html"><img src="images/profile.png" width="80"></a>
+                    </li>
+                </ul>
+            </div>
+        </header>
+        <section>
+            <h1 class="cart_heading">Cart</h1>
+        </section>
+        <label id="show-username" hidden>Username</label>
+            <br>
+            <label id="show-password" hidden>Password</label>
+            <br>
+            <label id="show-email" hidden>Email</label>
+        <table class="table" id="cart-list">
+            <thead>
+                <tr>
+                    <th></th>
+                    <th></th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <tr>
+                        <td rowspan="3">
+                            <img class= "cart_image" id="product-image">
+                        </td>
+                        <td>Name</td>
+                        <td>Del</td>
+                    </tr>
+                    <tr>
+                        <td>Price</td>
+                        <td>Update</td>
+                    </tr>
+                    <tr>
+                        <td>Quantity</td>
+                    </tr>      
+                </tr>
+            </tbody>
+        </table>
+        <a class= "checkout_button" href="checkout.html">Check Out</a>
+
+              <div class="container mt-5" id="update-cart-container">
+                <div id="add-update-msg">
+                    <div class="alert alert-success" role="alert">
+                        Cart updated
+                    </div>
+                </div>
+                <h3 id="update-heading">Update Cart</h3>
+                <div class="form" id="update-cart">
+                    <form id="update-cart-form">
+                        <h4>Quantity:</h4>
+                        <div class="counter">
+                            <span class="down" onClick='decreaseCount(event, this)'>-</span>
+                            <input type="text" value="1">
+                            <span class="up" onClick='increaseCount(event, this)'>+</span>
+                        </div>
+                        <input type="hidden" id="update-product-id">
+                        <input type="submit" value="Update Cart" class="updatecart_button" id="update-cart-submit">
+                    </form>
+                </div>
+            </div>
+            <footer>
+                <ul class="socials">
+                    <li>
+                        <a href="https://www.instagram.com/lego/"><img src="images/instalogo.png" width="40px" height="40px"></a>
+                    </li> 
+                    <li> 
+                        <a href="https://www.youtube.com/user/LEGO"><img src="images/yt.png" width="40px" height="40px"></a>
+                    </li>  
+                    <li>
+                        <a href="https://twitter.com/LEGO_Group"><img src="images/twitter.png" width="40px" height="40px"></a>
+                    </li>  
+                    <li>
+                        <a href="https://www.facebook.com/LEGO/"><img src="images/facebook.png"width="40px" height="40px"></a>
+                    </li>
+                </ul> 
+                <p>
+                    <a href="https://www.lego.com/en-sg">Want to know more about Legos? Find out more at their offical shop!</a>
+                </p>            
+            </footer>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="js/script.js"></script>
+    </body>
+
+</html>
