@@ -88,10 +88,12 @@ In this section, I mention all of the languages, frameworks, libraries, and any 
   
 # Roles
 - Le Xin: front-end developer
-- Chloe: API developer, back-end devloper
-  
+- Chloe: API developer, back-end developer
+
+# Github
 - [Github Pages](https://chloeliyi.github.io/)
 - [Github Repo](https://github.com/Chloeliyi/Chloeliyi.github.io)
+
 ### Due to some issues with css, we decide to use Chloe's Repo instead if your wondering why is there a lack of commits. 
 - [Original Github Repo](https://github.com/IceBucket420/IceBucket420.github.io)
 
