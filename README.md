@@ -90,6 +90,6 @@ In this section, I mention all of the languages, frameworks, libraries, and any 
   Chloe: API for the website
   
   # Github Page Link: Chloeliyi.github.io
-  # Github Repo: 
+  # Github Repo: https://github.com/Chloeliyi/Chloeliyi.github.io
 
 
