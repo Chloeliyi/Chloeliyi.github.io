@@ -85,5 +85,8 @@ In this section, I mention all of the languages, frameworks, libraries, and any 
   - Lego shop
   - W3Schools
   - [Reference for Quiz](https://codereview.stackexchange.com/questions/122837/simple-javascript-quiz-application-with-radio-buttons)
+  
+  Le Xin: CSS for the website
+  Chloe: API for the website
 
 
